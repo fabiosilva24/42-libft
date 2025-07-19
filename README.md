@@ -102,4 +102,5 @@ int main(void)
 This project is licensed under the MIT License.  
 See the [LICENSE](LICENSE) file for more details.  
 © 2025 Fábio Bastos
+
 *This library serves as the foundation for all future 42 projects.*
